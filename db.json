@@ -1,27 +1,29 @@
-[
-  {
-    "id": "1",
-    "name": "Tia Leo",
-    "details": "Salsicha enrolada"
-  },
-  {
-    "id": "2",
-    "name": "Maria Fernanda Uni",
-    "details": "Bombom, brigadeiro"
-  },
-  {
-    "id": "3",
-    "name": "Tairine",
-    "details": "Arroz soltinho"
-  },
-  {
-    "id": "4",
-    "name": "Henrique",
-    "details": "Nada"
-  },
-  {
-    "id": "5",
-    "name": "Igor",
-    "details": "Bife frito e hamburguer"
-  }
-]
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Tia Leo",
+      "details": "Salsicha enrolada"
+    },
+    {
+      "id": "2",
+      "name": "Maria Fernanda Uni",
+      "details": "Bombom, brigadeiro"
+    },
+    {
+      "id": "3",
+      "name": "Tairine",
+      "details": "Arroz soltinho"
+    },
+    {
+      "id": "4",
+      "name": "Henrique",
+      "details": "Nada"
+    },
+    {
+      "id": "5",
+      "name": "Igor",
+      "details": "Bife frito e hamburguer"
+    }
+  ]
+}
